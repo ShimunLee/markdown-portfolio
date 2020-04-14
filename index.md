@@ -16,9 +16,9 @@ layout: default
 <br>
 
 {% include 04-lists.md %}
-* Shi Mun is here to
-  * Learn how to use Github
-  * Learn how to deploy BIOINFORMATICS pipeline to us
+  * Shi Mun is here to
+    * Learn how to use Github
+    * Learn how to deploy BIOINFORMATICS pipeline to us
 <br>
 
 {% include 05-emphasis.md %}
