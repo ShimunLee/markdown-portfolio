@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Learning Markdown (H1 is the biggest)
+###### Smallest Markdown (H6 is the smallest)
