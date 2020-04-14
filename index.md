@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+- Shi Mun is here to
+  - Learn how to use Github
+  - Learn how to deploy BIOINFORMATICS pipeline to use
 {% include 01-name.md %}
 
 <br>
